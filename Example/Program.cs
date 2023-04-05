@@ -6,4 +6,5 @@ Console.WriteLine("Small conversation with World! (3)");
 Console.WriteLine("Small conversation with World! (4)");
 Console.WriteLine("Small conversation with World! (5)");
 Console.WriteLine("hotfix");
+Console.WriteLine("new feature functionality");
 Console.ReadKey();
